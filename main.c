@@ -2,7 +2,7 @@
 // This translates from ps/2 to ascii. 
 // The table starts at 0x15, so you should shift 
 // the table by 0x15 when you reference it. 
-// 
+// HI
 unsigned char ps2_to_ascii[] = {
 	'q','1',0x00,0x00,0x00,'z','s','a','w','2',0x00,
 
